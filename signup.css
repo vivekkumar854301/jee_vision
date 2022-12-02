@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.form{
+    margin-left: 483px;
+    margin-top: 15px;
+border: 1px solid rgb(2, 2, 18);
+height: 90vh;
+width: 40vw;
+background-color:whitesmoke;
+}
+div .content{
+    margin-left: 20px;
+margin-top: 26px;
+font-weight: bolder;
+
+font-family: 'Source Code Pro', monospace;
+}
+ input{
+    margin-left: 20px;
+width: 33vw;
+height: 4vh;
+font-weight: bolder;
+color: rgb(0, 0, 0);
+background-color: rgb(180, 170, 170);
+font-family: 'Source Code Pro', monospace;
+}
+.register{
+    background-color: blue;
+    color: wheat;
+width: 91px;
+height: 25pxpx;
+border-radius: 25px;
+margin-top: 40px;
+margin-left: 250px;
+}
+.regi :hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: blue;
+}
+#States{
+    margin-left: 21px;
+    margin-top: 20px;
+}
+label{
+    margin-left: 35px;
+    font-family: 'Source Code Pro', monospace;
+}
+.hire p{
+    margin-left: 60px;
+    color: rgb(0, 0, 0);
+
+    font-family: 'Source Code Pro', monospace;
+}
+.name{
+    height: 10vh;
+    background-color: rgb(180, 171, 171);
+    color: rgb(14, 11, 11);
+    text-align: center;
+}
+#reset{
+    background-color: rgb(234, 234, 243);
+    color: rgb(20, 0, 198);
+width: 91px;
+height: 25pxpx;
+border-radius: 25px;
+margin-top: 40px;
+margin-left: 250px;
+}
+#reset:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+
+}
